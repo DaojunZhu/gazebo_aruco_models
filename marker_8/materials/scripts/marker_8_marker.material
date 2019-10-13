@@ -1,0 +1,13 @@
+material Marker8/Marker
+{
+	technique
+	{
+		pass
+		{
+			texture_unit
+			{
+				texture marker8.png
+			}
+		}
+	}
+}
